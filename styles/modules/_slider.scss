@@ -1,0 +1,14 @@
+.topic-slide {
+  height: 240px;
+  // width: 1080px;
+  & img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+}
+
+.profile-slide {
+  height: 520px;
+  width: 380px;
+}
